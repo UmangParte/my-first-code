@@ -1,3 +1,4 @@
+'''python
 # Starting of the journey :-
 
 print ("1. Hello!")
@@ -11,3 +12,4 @@ print ("5. I believe that i will get the job of quantitative researcher in a nic
 print ("6. I hope someone will read this in future.")
 print ("7. Hire me for the best results for your company.")
 print ("8. I will work harder and harder for my goals!")
+'''
